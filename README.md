@@ -5,7 +5,7 @@ Purpose: This research hopes to explore whether a person presenting specific cha
 -	Number of children or dependent 
 -	Pet 
 -	Educational level 
--	Ride (car, bike)
+-	availability of Ride (car, bike)
 
 INTRODUCTION 
 In every company, there are employees who sometimes miss work hours due to one issue or the other. This can be caused by many factors, including ill health, accidents on the road, family emergencies, lack of passion for work, etc. this behavior affects the company’s productivity leading to lower production or other defects. Employees also face several challenges in their various departments in the company, which include 
