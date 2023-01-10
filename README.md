@@ -13,6 +13,6 @@ This research hopes to explore whether a person presenting specific characterist
 -	availability of Ride (car, bike)
 Using the factors described above, we will explore whether a person presenting certain characteristics is expected to be away from work. 
 
-# Assumptions
+### Assumptions
 - Only those that don't show up for work all thorugh the day will be considered absent
 - Ones temporary incapacity to execute regular working activities even when present will be considered present
