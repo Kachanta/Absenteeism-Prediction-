@@ -4,6 +4,7 @@ In every company, there are employees who sometimes miss work hours due to one i
 -	Unachievable work goals leading to the increased stress level 
 -	Elevated risk of becoming unemployed also increases stress level etc.
 Several factors can cause one to be absent during regular working hours and leaving a vacant space or increase working pressure on peers.   
+
 This research hopes to explore whether a person presenting specific characteristics is expected to be away from work at some point in time or not based on information such as 
 -	Distance from work
 -	Marital status 
@@ -13,6 +14,6 @@ This research hopes to explore whether a person presenting specific characterist
 -	availability of Ride (car, bike)
 Using the factors described above, we will explore whether a person presenting certain characteristics is expected to be away from work. 
 
-### Assumptions
+#### Assumptions
 - Only those that don't show up for work all thorugh the day will be considered absent
 - Ones temporary incapacity to execute regular working activities even when present will be considered present
